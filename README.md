@@ -4,6 +4,6 @@
 
 1. Cai cac goi: express ejs body-parser ytdl-core
 
-2. Để lấy file mp4 hay mp3 bạn chỉ cần set hai thuộc tính trong 
+2. Để lấy file mp4 hay mp3 bạn chỉ cần set hai thuộc tính trong ServerGetLink.js
      element.hasVideo == false && element.hasAudio == true    : lấy file mp3
      element.hasVideo == true && element.hasAudio == true     : lấy file mp4
